@@ -1,2 +1,2 @@
 # Test-Toolchains
-该仓库是关于CMU 14763课程的相关项目与代码
+## This repository is for projects and code related to the cmu 14763 course
